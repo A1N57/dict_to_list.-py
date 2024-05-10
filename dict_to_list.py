@@ -6,4 +6,3 @@ def dict_to_list(a):
         list.append((k, v))    
     return list
 print(dict_to_list({'f': 2, 'r': 3}))
-  
